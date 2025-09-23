@@ -1,56 +1,42 @@
 Coffee Sales Dashboard
-
 Overview
 
-This project is an interactive Excel dashboard designed to analyze coffee sales across regions, customers, and product lines. It transforms raw order data into actionable insights through PivotTables, PivotCharts, slicers, and a dynamic timeline, giving stakeholders the ability to explore sales performance and customer behavior with ease.
+This project is an interactive Excel dashboard designed to analyze coffee sales across products, customers, and regions. It uses PivotTables, PivotCharts, slicers, and a timeline to transform raw data into actionable business insights.
 
-Dataset
+Key Features
 
-The dataset is organized into three tables:
+Interactive slicers for Country, Coffee Type, Roast Type, Loyalty Card, and Date
 
-Orders – Order details including ID, date, customer, product, quantity, sales, and loyalty card usage
+Timeline control for exploring monthly and yearly trends
 
-Customers – Customer information such as name, email, country, and loyalty status
+PivotTables & PivotCharts summarizing sales performance
 
-Products – Coffee type, roast type, size, unit price, and profit margins
+Top 5 Customers view highlighting loyalty and repeat purchases
 
-Dashboard Features
-
-Interactive Slicers for filtering by Country, Coffee Type, Roast Type, Loyalty Card, and Date
-
-Adjustable Timeline to track monthly and yearly sales performance
-
-PivotTables & PivotCharts for quick aggregation and analysis
-
-Top 5 Customers View showcasing repeat buyers and loyalty impact
-
-Profitability Insights segmented by coffee type and package size
+Profitability analysis by product size and coffee type
 
 Key Insights
 
-The United States generated the highest sales revenue, followed by Ireland
+The United States leads in overall sales, followed by Ireland
 
-Arabica and Robusta blends were the most popular, with medium roast consistently leading in demand
+Arabica and Robusta are the top-selling coffee types, with medium roast showing the highest demand
 
-Larger package sizes (2.5kg) offered the highest profit margins
+2.5kg packages deliver stronger profit margins compared to smaller sizes
 
-Sales exhibited seasonal peaks during late summer and holidays, pointing to targeted promotion opportunities
+Seasonal peaks occur during late summer and holiday months
 
-A small group of loyal, repeat customers contributed a significant portion of overall sales
+A small group of loyal customers contributes significantly to revenue
 
-Tools & Skills Demonstrated
+Skills Demonstrated
 
-Microsoft Excel
+Microsoft Excel (PivotTables, PivotCharts, Slicers, Timeline)
 
-PivotTables & PivotCharts
-
-Slicers & Timeline Controls
-
-Interactive Dashboard Design
+Dashboard Design & Interactivity
 
 Sales & Customer Behavior Analysis
 
 Data Storytelling & Visualization
+
 
 Dashboard Preview
 <img width="1201" height="588" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/ae934741-9d44-4a88-8803-f0cdceb56598" />
