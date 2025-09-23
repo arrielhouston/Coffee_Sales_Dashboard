@@ -52,12 +52,12 @@ Sales & Customer Behavior Analysis
 
 Data Storytelling & Visualization
 
-📷 Dashboard Preview
-![Dashboard Overview]<img width="1201" height="588" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/ae934741-9d44-4a88-8803-f0cdceb56598" />
+Dashboard Preview
+<img width="1201" height="588" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/ae934741-9d44-4a88-8803-f0cdceb56598" />
   
-![Top Customers]<img width="921" height="274" alt="Top_customers" src="https://github.com/user-attachments/assets/0731a989-cf13-40a5-870f-698971dbf448" />
+<img width="921" height="274" alt="Top_customers" src="https://github.com/user-attachments/assets/0731a989-cf13-40a5-870f-698971dbf448" />
 
-![Sales Trends]<img width="965" height="494" alt="Total_Sales_Over_Time" src="https://github.com/user-attachments/assets/fd41e935-e74b-43a9-b200-b2260cb53455" />
+<img width="965" height="494" alt="Total_Sales_Over_Time" src="https://github.com/user-attachments/assets/fd41e935-e74b-43a9-b200-b2260cb53455" />
   
 
 How to Use
@@ -68,6 +68,6 @@ Open in Microsoft Excel
 
 Use slicers and the timeline to interact with the dashboard
 
-🔑 Project Value
+Project Value
 
 This project demonstrates how Excel can be used as a business intelligence tool for uncovering insights from sales data. It highlights my ability to design interactive dashboards, apply data analysis techniques, and communicate results to both technical and non-technical stakeholders.
