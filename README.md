@@ -32,7 +32,7 @@ This project is an **interactive Excel dashboard** designed to analyze coffee sa
 ---
 
 ## How to Use  
-1. **[Download the Excel file here](https://github.com/YourUsername/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Dashboard.xlsx)**  
+1. **[Download the Excel file here]()**  
 2. Open in Microsoft Excel  
 3. Explore the dashboard using slicers and timeline  
 
