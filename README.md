@@ -32,19 +32,19 @@ This project is an **interactive Excel dashboard** designed to analyze coffee sa
 ---
 
 ## How to Use  
-1. **[Download the Excel file here]()**  
+1. **[Download the Excel file here](https://github.com/arrielhouston/Coffee_Sales_Dashboard/blob/main/Coffee_Sales_Dashboard.xlsx)**  
 2. Open in Microsoft Excel  
 3. Explore the dashboard using slicers and timeline  
 
 ---
 
-## 📷 Dashboard Preview  
+## Dashboard Preview  
 <img width="1201" height="588" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/ae934741-9d44-4a88-8803-f0cdceb56598" />  
 <img width="921" height="274" alt="Top_customers" src="https://github.com/user-attachments/assets/0731a989-cf13-40a5-870f-698971dbf448" /> 
 <img width="965" height="494" alt="Total_Sales_Over_Time" src="https://github.com/user-attachments/assets/fd41e935-e74b-43a9-b200-b2260cb53455" /> 
 
 ---
 
-## 🔑 Project Value  
-This project demonstrates how Excel can function as a **business intelligence tool**, providing interactive reporting and insights for stakeholders.  
+## Project Value  
+This project demonstrates how Excel can function as a **business intelligence tool** for uncovering insights from sales data. It highlights my ability to design interactive dashboards, apply data analysis techniques, and communicate results to both technical and non-technical stakeholders.
 
