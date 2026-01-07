@@ -2,6 +2,7 @@
 
 ## Overview  
 This project is an **interactive Excel dashboard** designed to analyze coffee sales across products, customers, and regions. It uses **PivotTables, PivotCharts, slicers, and a timeline** to transform raw data into actionable business insights.  
+This is a full-stack analytics project where I started with raw, messy data, cleaned and prepared it for analysis, and then built an interactive dashboard to present the final insights.
 
 ---
 
